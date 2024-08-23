@@ -7,7 +7,7 @@ In my British Airways Customer Experience project, I developed an interactive Ta
 <h2>Dashboard Snapshot</h2>
 
 <p align="center">
-Launch the utility: <br/>
+<br/>
 <img src="https://i.imgur.com/lV3rdFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
